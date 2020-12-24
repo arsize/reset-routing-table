@@ -1,0 +1,21 @@
+{
+  "name": "reset-routing-table",
+  "version": "1.0.0",
+  "description": "manually alter the generated static routing information",
+  "main": "app.js",
+  "scripts": {
+    "reset": "cd utils & node resetapp.js & cd ..",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsize/reset-routing-table.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsize/reset-routing-table/issues"
+  },
+  "homepage": "https://github.com/arsize/reset-routing-table#readme"
+}

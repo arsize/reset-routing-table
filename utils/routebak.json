@@ -1,4 +1,14 @@
 {
 	"route": [
+		"pages/index/index",
+		"pages/route1/index",
+		"pages/route2/index",
+		"pages/route3/index",
+		"pages/route4/index",
+		"pages/route5/index",
+		"pages/route6/index",
+		"pages/route7/index",
+		"pages/route8/index",
+		"pages/route9/index"
 	]
 }
