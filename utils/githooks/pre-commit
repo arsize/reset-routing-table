@@ -1,2 +1,2 @@
 #!/bin/sh
-python ./utils/post-commit.py
+python ./utils/pre-commit.py
